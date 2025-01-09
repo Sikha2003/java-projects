@@ -54,7 +54,7 @@ public class ATM_test {
 
 			System.out.println(1 + " for Withdrwal ");
 			System.out.println(2 + " for Deposite ");
-			System.out.println(3 + " for check balance");
+			System.out.println(3 + " for Balance enquiry");
 			System.out.println(4 + " exit");
 			System.out.println();
 			System.out.println("enter the number you want to perform");
